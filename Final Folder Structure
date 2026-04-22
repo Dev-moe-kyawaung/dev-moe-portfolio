@@ -1,0 +1,17 @@
+dev-moe-portfolio/
+│
+├── index.html
+├── README.md
+├── robots.txt
+├── sitemap.xml
+├── config.json
+│
+└── assets/
+    ├── css/
+    │   └── style.css
+    ├── js/
+    │   └── app.js
+    └── img/
+        ├── favicon.png
+        ├── og-image.png
+        └── profile-placeholder.png
